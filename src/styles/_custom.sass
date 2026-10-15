@@ -59,6 +59,87 @@ figcaption
 .banner-interno__fondo
     background-image: url(../assets/curso/portada/fondo-banner-temas.png) !important
 
+//TABS-C
+.tabs-c.color-primario .tabs-c__tab
+    background-color: #E8F6FF
+    border-bottom-color: #22A9FF
+
+.tabs-c.color-primario .tabs-c__tab--active
+    background-color: #D8BDCE
+    border-bottom-color: #7D255E !important
+    color: $color-sistema-texto !important
+    z-index: 1;
+
+.tabs-c.color-primario .tabs-c__tab--active:before
+    border-top-color: #7D255E !important
+    
+.tabs-c.color-primario .tabs-c__tab--active span
+    font-weight: bold !important
+.tabs-c__content-item
+    position: relative;
+    top: -13px;
+    z-index: 0;
+.ptabs
+    padding: 2rem !important;
+
+//TITULO TERCER NIVEL
+.titulo-tercer-nivel
+  width: fit-content
+  max-width: 100%
+  position: relative
+  display: inline-flex
+  align-items: center
+  background-color: #FCB908
+  border-radius: 30px
+  padding-right: 16px
+  padding-left: 60px
+  min-height: 48px
+ 
+  @media screen and (max-width: $bp-min-md)
+    padding-left: 0px
+    border-radius: 0
+
+
+
+  &__icon
+    position: absolute
+    left: -10px
+    top: 50%
+    transform: translateY(-50%)
+    width: 70px
+    max-width: 85px
+    height: auto
+
+    @media screen and (max-width: $bp-min-md)
+      display: none
+
+  &__text
+    margin: 0
+    margin: 0 15px 0 10px
+    white-space: normal
+    word-break: break-word
+
+//TABLAS
+.tabla-a thead
+    border-top: none
+    background-color: #A6DCFF;
+.tabla-a tr:nth-child(2n)
+    background-color: rgba(232, 232, 232, 0.4)
+.tarjeta-avatar .tarjeta 
+    width: stretch;
+//NUEVO ICONO FA 
+.fa-cus
+    content: url('../assets/curso/temas/bg/2.svg')
+    align-self: flex-start !important
+    font-size: 14px
+
+//TARJETA BOTON
+.tarjeta--boton.color-primario
+    background-color: #A6DCFF
+.tarjeta--boton.color-primario:active, .tarjeta--boton.color-primario:focus, .tarjeta--boton.color-primario:hover
+    background-color: #CDDBA7 !important
+.tarjeta--boton.color-primario:active *, .tarjeta--boton.color-primario:focus *, .tarjeta--boton.color-primario:hover *
+    color: $color-sistema-texto !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -75,6 +156,12 @@ figcaption
 .bg-color
   &-1
     background-color: #A6DCFF
+  &-2
+    background-color: #76AB37
+  &-3
+    background-color: #CDDBA7
+  &-4
+    background-color: #FCF1C7
 
 
 
@@ -90,9 +177,29 @@ figcaption
     background-color: $color-acento-botones
     
 
+.br
+  &-1
+    border-top-left-radius: 5rem
+  &-2
+    border-top-left-radius: 3rem
+    border-top-right-radius: 1rem
+    border-bottom-left-radius: 1rem
+    border-bottom-right-radius: 1rem
+  &-3
+    border-top-right-radius: 5rem
+  &-4
+    border-top-left-radius: 1rem
+    border-top-right-radius: 3rem
+    border-bottom-left-radius: 1rem
+    border-bottom-right-radius: 1rem
 
+.wcus
+  &-1
+    width: 20%
 
-
+.hcus
+  &-1
+    height: 350px
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -120,6 +227,9 @@ figcaption
     right: -10% !important;
   .slyder-a__btn--atrs
     left: -10% !important;
+  .br
+    &-1, &-2, &-3, &-4
+      border-radius: 0
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
