@@ -312,7 +312,7 @@
         h2 1.2 Desarrollo endógeno en el enfoque OVOP
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/15.png', alt='')
+          img(src='@/assets/curso/temas/t1/15.png')
         .col-sm-12.col-lg-7
             p.mb-4 El desarrollo endógeno se entiende como un proceso de transformación que nace desde dentro del territorio. Se fundamenta en las capacidades internas de la comunidad (sus recursos humanos, naturales, productivos, culturales y sociales) y en su habilidad para organizarlos, fortalecerlos y proyectarlos hacia un bienestar colectivo. A diferencia de los modelos dependientes de factores externos, el desarrollo endógeno propone que el territorio se active desde su propia esencia: sus saberes, prácticas, creatividad y tejido social.
             p.mb-0 Este enfoque convierte a las personas y a sus organizaciones en protagonistas del cambio territorial. Desde esta mirada, el valor de lo local se transforma en una fuerza estratégica que impulsa la innovación, la cohesión social y la resiliencia económica. Tal como sostiene Vaca López (2016), la cultura y los referentes identitarios se vuelven motores de desarrollo: son la “semilla” desde la cual se proyecta el territorio y se construye su narrativa.

@@ -140,6 +140,51 @@ figcaption
     background-color: #CDDBA7 !important
 .tarjeta--boton.color-primario:active *, .tarjeta--boton.color-primario:focus *, .tarjeta--boton.color-primario:hover *
     color: $color-sistema-texto !important
+
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    background-color: #0D4366
+  
+//SLYDER F
+.slyder-f__btn i 
+    color: $color-acento-botones
+.slyder__btn 
+    background-color: $color-acento-botones  
+//ACORDION
+.acordion__accion__btn--b
+    background-color: $color-acento-botones !important;
+    border: 0
+.tarjeta.bg-card
+  background-color: #A6DCFF
+.tarjeta.bg-card.acordion__activo
+  background-color: #CDDBA7
+.tarjeta.bg-card-2
+  background-color: #A6DCFF
+.tarjeta.bg-card-2.acordion__activo
+  background-color: #FCF1C7
+.tarjeta.bg-card.acordion__activo .acordion__titulo h3
+  color: $color-sistema-texto !important
+.acordion__accion__btn--a
+    background-color: $color-acento-botones
+.acordion__accion__btn--b i,
+.acordion__accion__btn--a i
+    color: white;
+// PODCAST
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
+      color: $color-sistema-texto !important
+      font-style: normal !important
+//CAJON
+.cajon.color-acento-contenido
+    background-color: #F7E6EB
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -152,7 +197,9 @@ figcaption
   margin-inline: -3.3rem
 .bg-fondo
   &-1
-    //background-image: url(../assets/curso/bg/3.svg)
+    background-image: url(../assets/curso/temas/bg/3.svg)
+  &-2
+    background-image: url(../assets/curso/temas/bg/4.svg)
 .bg-color
   &-1
     background-color: #A6DCFF
@@ -162,6 +209,10 @@ figcaption
     background-color: #CDDBA7
   &-4
     background-color: #FCF1C7
+  &-5
+    background-color: #E8F6FF
+  &-6
+    background-color: #F7E6EB
 
 
 
@@ -196,10 +247,16 @@ figcaption
 .wcus
   &-1
     width: 20%
+  &-2
+    width: 80%
+  &-3
+    width: 13%
 
 .hcus
   &-1
     height: 350px
+  &-2
+    height: 400px
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/

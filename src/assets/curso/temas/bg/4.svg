@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="418.837" viewBox="0 0 1328 418.837">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff7f3" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1209331" data-name="Grupo 1209331" transform="translate(-136 -2008.163)">
+    <g id="Grupo_1209320" data-name="Grupo 1209320" transform="translate(136.754 2008.163)">
+      <path id="Unión_5" data-name="Unión 5" d="M.488,409.6V220.453L0,219.874V63.45C56.853,13.946,174.081-1.68,283.057.14c87.128,1.455,169.8,15.355,244.03,34.94C592.736,52.4,652.745,74.206,720.616,89.633c167.611,38.1,355.519,3.665,522.663-34.591q40.861-9.351,82.026-18.451V197.61h1.183V409.6Z" transform="translate(0.003 0)" fill="#fee39c" opacity="0.16"/>
+      <path id="Unión_6" data-name="Unión 6" d="M1048.261,351.439c-107.423,0-211.762-20.935-313.889-42.655-100.18-21.307-212.8-40.486-313.263-19.265-40.68,8.592-76.646,20.736-115.994,30.384-44.492,10.909-94.041,18.65-146.262,19.46C99.82,340.279,36.746,333.257,0,311.541V0H1326.488V210.024H1325.3V282.3c-33.7,33.618-112.3,55.556-192.873,64.57a755.753,755.753,0,0,1-84.152,4.57Z" transform="translate(1326.488 418.837) rotate(180)" fill="#fee39c" opacity="0.16"/>
+      <rect id="Rectángulo_454512" data-name="Rectángulo 454512" width="1328" height="97" transform="translate(-0.754 321.837)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
