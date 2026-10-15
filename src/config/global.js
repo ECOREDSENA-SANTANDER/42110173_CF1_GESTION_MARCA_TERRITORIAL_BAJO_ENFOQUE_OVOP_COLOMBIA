@@ -96,7 +96,7 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo:
-          'Mercado y marketing territorial: concepto, tipos y herramientas de análisis',
+          'Mercado y <i>marketing</i> territorial: concepto, tipos y herramientas de análisis',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -106,7 +106,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Concepto de marketing territorial',
+            titulo: 'Concepto de <i>marketing</i> territorial',
             hash: 't_3_2',
           },
           {
