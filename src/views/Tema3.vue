@@ -358,7 +358,7 @@
 
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/18.png', alt='')
+          img(src='@/assets/curso/temas/t3/18.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones
             .row(numero="1" titulo="Encuestas")
@@ -391,7 +391,7 @@
               .col
                 p.mb-0 Facilita la interpretación de datos sobre demanda, precios, perfiles de públicos, comportamiento del mercado y otras variables relevantes.
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/19.png', alt='')
+          img(src='@/assets/curso/temas/t3/19.png')
       .titulo-sexto.color-acento-botones(data-aos='fade-right')
         p.mb-0 #[b Tabla 13.] Herramientas para el análisis de mercado y diagnóstico de la marca territorial
       .tabla-a.mb-5(data-aos='fade-right')

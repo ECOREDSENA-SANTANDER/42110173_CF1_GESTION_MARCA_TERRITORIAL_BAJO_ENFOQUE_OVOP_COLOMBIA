@@ -16,8 +16,8 @@
             .col-sm-12.col-lg-5.d-none.d-lg-block.px-0
               img(src='@/assets/curso/temas/t2/2.svg')
             .col-sm-12.col-lg-7.px-0
-              .p-5
-                p.mb-4 Estas categorías permiten reconocer:
+              .p-4
+                p.mb-3 La identidad territorial se constituye en uno de los pilares del enfoque OVOP Colombia, para la construcción de cualquier marca territorial; desde esta perspectiva, la identidad no se inventa ni se impone: 
                 ul.lista-ul--color.mb-0
                   li.d-flex
                     i.fas.fa-cus

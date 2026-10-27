@@ -297,7 +297,7 @@
               td Requiere articulación y acuerdos entre actores públicos, privados, comunitarios y productivos vinculados con el territorio.
             tr
               td #[b Beneficios esperados]
-              td Busca favorecer el reconocimiento, posicionamiento, diferenciación y preferencia de
+              td Busca favorecer el reconocimiento, posicionamiento, diferenciación y preferencia de sus públicos.
               td Puede contribuir al reconocimiento territorial, la cohesión social, la dinamización económica, el fortalecimiento de la identidad y el desarrollo local.
       
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-0.br-1(data-aos='fade-right')

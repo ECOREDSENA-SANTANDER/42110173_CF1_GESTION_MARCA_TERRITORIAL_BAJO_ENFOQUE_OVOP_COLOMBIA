@@ -190,14 +190,14 @@ export default {
         'estrategia que resalta los rasgos únicos del territorio —cultura, patrimonio, biodiversidad, oficios, paisajes— para distinguirlo frente a otros territorios y fortalecer su posicionamiento en mercados turísticos, culturales o productivos.',
     },
     {
-      termino: 'Enfoque ovop',
+      termino: 'Enfoque OVOP',
       significado:
-        'metodología one village, one product basada en la creación de valor desde los tesoros locales, la autogestión comunitaria, la creatividad y el fortalecimiento del recurso humano para promover desarrollo endógeno y competitividad territorial.',
+        'metodología <i>One village, One product</i> basada en la creación de valor desde los tesoros locales, la autogestión comunitaria, la creatividad y el fortalecimiento del recurso humano para promover desarrollo endógeno y competitividad territorial.',
     },
     {
       termino: 'Gobernanza de marca',
       significado:
-        'sistema de acuerdos, reglas, roles e instancias (como el comité local ovop) encargadas de gestionar, proteger y orientar el uso de la marca territorial. garantiza transparencia, sostenibilidad y corresponsabilidad.',
+        'sistema de acuerdos, reglas, roles e instancias (como el Comité Local OVOP) encargadas de gestionar, proteger y orientar el uso de la marca territorial. garantiza transparencia, sostenibilidad y corresponsabilidad.',
     },
     {
       termino: 'Identidad visual',
@@ -361,12 +361,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
