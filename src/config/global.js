@@ -172,17 +172,17 @@ export default {
     {
       termino: 'Apropiación comunitaria',
       significado:
-        'nivel de reconocimiento, valoración y uso que la comunidad otorga a la marca territorial. implica participación, sentido de pertenencia y compromiso con la gestión de los tesoros locales.',
+        'nivel de reconocimiento, valoración y uso que la comunidad otorga a la marca territorial. Implica participación, sentido de pertenencia y compromiso con la gestión de los tesoros locales.',
     },
     {
       termino: 'Atributos locales',
       significado:
-        'elementos propios del territorio incorporados a un producto, servicio o experiencia, como materias primas locales, técnicas tradicionales, símbolos culturales, memorias colectivas y saberes ancestrales. refuerzan la autenticidad y el vínculo identitario con el lugar.',
+        'elementos propios del territorio incorporados a un producto, servicio o experiencia, como materias primas locales, técnicas tradicionales, símbolos culturales, memorias colectivas y saberes ancestrales. Refuerzan la autenticidad y el vínculo identitario con el lugar.',
     },
     {
       termino: 'Desarrollo endógeno',
       significado:
-        'modelo de desarrollo que surge desde las capacidades internas del territorio: sus recursos humanos, culturales, naturales y productivos. promueve autonomía, innovación y sostenibilidad.',
+        'modelo de desarrollo que surge desde las capacidades internas del territorio: sus recursos humanos, culturales, naturales y productivos. Promueve autonomía, innovación y sostenibilidad.',
     },
     {
       termino: 'Diferenciación territorial',
@@ -197,27 +197,27 @@ export default {
     {
       termino: 'Gobernanza de marca',
       significado:
-        'sistema de acuerdos, reglas, roles e instancias (como el Comité Local OVOP) encargadas de gestionar, proteger y orientar el uso de la marca territorial. garantiza transparencia, sostenibilidad y corresponsabilidad.',
+        'sistema de acuerdos, reglas, roles e instancias (como el Comité Local OVOP) encargadas de gestionar, proteger y orientar el uso de la marca territorial. Garantiza transparencia, sostenibilidad y corresponsabilidad.',
     },
     {
       termino: 'Identidad visual',
       significado:
-        'sistema gráfico que representa la esencia cultural del territorio. incluye logotipo, isotipo, paleta cromática, tipografías, patrones, eslogan e iconografía inspirados en tesoros locales, artesanías, paisajes y símbolos comunitarios.',
+        'sistema gráfico que representa la esencia cultural del territorio. Incluye logotipo, isotipo, paleta cromática, tipografías, patrones, eslogan e iconografía inspirados en tesoros locales, artesanías, paisajes y símbolos comunitarios.',
     },
     {
       termino: 'Mapeo de actores',
       significado:
-        'herramienta participativa que identifica, clasifica y analiza los actores (instituciones, organizaciones, líderes, productores y comunidad) que influyen en la construcción, gestión y sostenibilidad de la marca territorial. facilita la articulación y la gobernanza.',
+        'herramienta participativa que identifica, clasifica y analiza los actores (instituciones, organizaciones, líderes, productores y comunidad) que influyen en la construcción, gestión y sostenibilidad de la marca territorial. Facilita la articulación y la gobernanza.',
     },
     {
       termino: 'Narrativa territorial',
       significado:
-        'relato identitario que integra historia, cultura, tesoros locales, emociones y visión de futuro. da sentido a la marca territorial y conecta emocionalmente a residentes, visitantes e inversionistas.',
+        'relato identitario que integra historia, cultura, tesoros locales, emociones y visión de futuro. Da sentido a la marca territorial y conecta emocionalmente a residentes, visitantes e inversionistas.',
     },
     {
       termino: 'Producto estrella',
       significado:
-        'producto territorial emblemático reconocido por su calidad, autenticidad y capacidad de representar al territorio. actúa como símbolo identitario, dinamizador económico y eje estratégico de la marca territorial.',
+        'producto territorial emblemático reconocido por su calidad, autenticidad y capacidad de representar al territorio. Actúa como símbolo identitario, dinamizador económico y eje estratégico de la marca territorial.',
     },
     {
       termino: 'Producto territorial',
@@ -227,7 +227,7 @@ export default {
     {
       termino: 'Sueño colectivo',
       significado:
-        'visión de futuro construida de manera participativa, que expresa las aspiraciones, valores, metas y propósitos del territorio. orienta la narrativa territorial, la estrategia de marca y las acciones de desarrollo endógeno.',
+        'visión de futuro construida de manera participativa, que expresa las aspiraciones, valores, metas y propósitos del territorio. Orienta la narrativa territorial, la estrategia de marca y las acciones de desarrollo endógeno.',
     },
     {
       termino: 'Tesoros locales',
@@ -361,12 +361,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          nombre: 'Sandra Liliana Cristancho Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Sandra Liliana Cristancho Cruz',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
