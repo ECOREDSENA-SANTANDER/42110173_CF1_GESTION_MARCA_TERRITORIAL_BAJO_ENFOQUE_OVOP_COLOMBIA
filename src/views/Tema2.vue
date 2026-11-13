@@ -452,7 +452,7 @@
         )
         .bloque-texto-g__texto.p-5.d-flex.flex-column.br-4
           p.mb-3 El propósito de este proceso es comprender que los productos territoriales no se limitan a la comercialización de bienes o servicios, sino que generan valor a partir de la identidad, la memoria colectiva, los saberes y las experiencias propias del territorio.
-          p.mb-0 Cada territorio guarda saberes, tradiciones, productos, paisajes y experiencias que expresan su identidad y representan un valor especial para sus comunidades. Pero ¿cómo reconocer cuáles de estos tesoros locales pueden convertirse en oportunidades de desarrollo sin perder su autenticidad?
+          p.mb-0 Cada territorio guarda saberes, tradiciones, productos, paisajes y experiencias que expresan su identidad y representan un valor especial para sus comunidades. Pero, ¿cómo reconocer cuáles de estos tesoros locales pueden convertirse en oportunidades de desarrollo sin perder su autenticidad?
 
       p.mb-5(data-aos='fade-right') Le invitamos a visitar el pódcast, un espacio para comprender cómo, desde el enfoque OVOP Colombia, es posible valorar el potencial de los tesoros locales y conectarlos con la identidad, la participación comunitaria, la sostenibilidad y las oportunidades de mercado.
 

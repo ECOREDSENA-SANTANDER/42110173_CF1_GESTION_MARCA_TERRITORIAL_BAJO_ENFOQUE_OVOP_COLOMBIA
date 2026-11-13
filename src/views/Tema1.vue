@@ -33,7 +33,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/3.svg')
         .col-sm-12.col-lg-11
-            p.mb-0 En la gestión de marca territorial teniendo en cuenta el enfoque OVOP Colombia, comprender los conceptos de marca y marca territorial permite reconocer cómo la identidad, los recursos, los saberes y los valores propios de una comunidad pueden contribuir a la diferenciación y proyección del territorio. 
+            p.mb-0 En la gestión de marca territorial, teniendo en cuenta el enfoque OVOP Colombia, comprender los conceptos de marca y marca territorial permite reconocer cómo la identidad, los recursos, los saberes y los valores propios de una comunidad pueden contribuir a la diferenciación y proyección del territorio. 
             p.mb-0 Aunque ambos conceptos comparten elementos relacionados con la identidad y el reconocimiento, presentan diferencias en su propósito, alcance y forma de construcción, las cuales se abordarán a continuación:
 
       TabsC.color-primario.mb-5(data-aos='fade-right')

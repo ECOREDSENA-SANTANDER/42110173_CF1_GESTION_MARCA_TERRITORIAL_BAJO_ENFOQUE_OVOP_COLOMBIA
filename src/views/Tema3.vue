@@ -310,7 +310,7 @@
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/15.png')
         .col-sm-12.col-lg-7
-          p.mb-4 Para realizar un diagnóstico de la marca territorial es necesario recopilar información proveniente de diversas fuentes, tanto primarias como secundarias. La combinación de estas fuentes permite contrastar las percepciones de los actores locales con información del entorno y obtener una comprensión más amplia del territorio.
+          p.mb-4 Para realizar un diagnóstico de la marca territorial, es necesario recopilar información proveniente de diversas fuentes, tanto primarias como secundarias. La combinación de estas fuentes permite contrastar las percepciones de los actores locales con información del entorno y obtener una comprensión más amplia del territorio.
           p.mb-4 Sin embargo, recopilar información no garantiza por sí sola su calidad. Especialmente en el caso de las fuentes secundarias y digitales, es necesario valorar su pertinencia, vigencia y confiabilidad antes de incorporarlas al diagnóstico. Para este propósito puede emplearse el método CRAAP (Actualidad, Relevancia, Autoridad, Exactitud y Propósito) como criterio para evaluar y seleccionar las fuentes que respaldarán el análisis de la marca territorial.
           p.mb-0 El método CRAAP es una herramienta que permite evaluar de manera crítica la calidad y confiabilidad de las fuentes de información utilizadas en el diagnóstico de la marca territorial. Su aplicación ayuda a seleccionar información pertinente, verificable y adecuada para sustentar el análisis y la toma de decisiones.
 
